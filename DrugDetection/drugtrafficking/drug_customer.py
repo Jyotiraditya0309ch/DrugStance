@@ -1,0 +1,1 @@
+from eg import get_data

@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "user_id": 101,
+        "content": "Just got some new product! #drugs #beststuff",
+        "media_type": "text",
+        "media_url": "",
+        "timestamp": "2024-10-24T12:34:56Z",
+        "ip_address": "192.168.1.10",
+        "mobile_number": "1234567890",
+        "email": "user101@example.com",
+        "is_flagged": true,
+        "suspicious_keywords": ["drugs", "beststuff"]
+    },
+    {
+        "id": 2,
+        "user_id": 102,
+        "content": "Check out this new video on how to make synthetic drugs.",
+        "media_type": "video",
+        "media_url": "http://example.com/video1.mp4",
+        "timestamp": "2024-10-24T13:00:00Z",
+        "ip_address": "192.168.1.11",
+        "mobile_number": "0987654321",
+        "email": "user102@example.com",
+        "is_flagged": true,
+        "suspicious_keywords": ["synthetic drugs"]
+    },
+    {
+        "id": 3,
+        "user_id": 103,
+        "content": "Just another day in paradise!",
+        "media_type": "text",
+        "media_url": "",
+        "timestamp": "2024-10-24T14:15:30Z",
+        "ip_address": "192.168.1.12",
+        "mobile_number": "",
+        "email": "user103@example.com",
+        "is_flagged": false,
+        "suspicious_keywords": []
+    },
+    {
+        "id": 4,
+        "user_id": 101,
+        "content": "Selling the best stuff around. DM for details!",
+        "media_type": "image",
+        "media_url": "http://example.com/image1.jpg",
+        "timestamp": "2024-10-24T15:45:00Z",
+        "ip_address": "192.168.1.10",
+        "mobile_number": "1234567890",
+        "email": "user101@example.com",
+        "is_flagged": true,
+        "suspicious_keywords": ["selling", "best stuff"]
+    },
+    {
+        "id": 5,
+        "user_id": 104,
+        "content": "Here's a link to a great article!",
+        "media_type": "text",
+        "media_url": "",
+        "timestamp": "2024-10-24T16:00:00Z",
+        "ip_address": "192.168.1.13",
+        "mobile_number": "1122334455",
+        "email": "user104@example.com",
+        "is_flagged": false,
+        "suspicious_keywords": []
+    }
+]
